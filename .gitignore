@@ -1,0 +1,15 @@
+﻿#packages
+node_modules/
+bower_components/
+*.css.map
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.git-deploy
+.idea/
+.sass-cache/
+*.lock
+
+#detail
+account.txt
+requirements.txt
